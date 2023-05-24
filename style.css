@@ -436,18 +436,18 @@ footer {
     }
 
     .marcas img{
-        width: 60px;
-        height: 40px;
+        width: 70px;
+        height: 50px;
     }
     .ventanas{
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: 225vh;
+        height: 200vh;
         width: 110%;
     }
 
-    .c1,.c2,c3{
+    .c1,.c2,.c3{
         width: 150px;
     }
 
