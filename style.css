@@ -488,3 +488,5 @@ footer {
     }
    
 }
+
+.efecto:hover {filter: opacity(.5);}
